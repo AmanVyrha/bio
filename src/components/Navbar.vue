@@ -1,1 +1,13 @@
+<template>
+  <nav class="bg-gray-800 text-white p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-lg font-bold">My Portfolio</h1>
+      <ul class="flex space-x-4">
+        <li><a href="#about" class="hover:text-gray-400">About</a></li>
+        <li><a href="#projects" class="hover:text-gray-400">Projects</a></li>
+        <li><a href="#contact" class="hover:text-gray-400">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+</template>
 
